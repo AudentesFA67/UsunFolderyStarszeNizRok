@@ -1,0 +1,14 @@
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.AssemblyInfoInputs.cache
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.AssemblyInfo.cs
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.csproj.CoreCompileInputs.cache
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Debug\net8.0\UsunFolderyStarszeNizRok.exe
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Debug\net8.0\UsunFolderyStarszeNizRok.deps.json
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Debug\net8.0\UsunFolderyStarszeNizRok.runtimeconfig.json
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Debug\net8.0\UsunFolderyStarszeNizRok.dll
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Debug\net8.0\UsunFolderyStarszeNizRok.pdb
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.dll
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\refint\UsunFolderyStarszeNizRok.dll
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.pdb
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\UsunFolderyStarszeNizRok.genruntimeconfig.cache
+D:\Projekty C#\UsunFolderyStarszeNizRok\obj\Debug\net8.0\ref\UsunFolderyStarszeNizRok.dll

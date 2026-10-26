@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UsunFolderyStarszeNizRok</id>
+    <version>1.0.0</version>
+    <authors>UsunFolderyStarszeNizRok</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net9.0/folder-wrench-outline-custom (1).ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Release\net9.0\UsunFolderyStarszeNizRok.runtimeconfig.json" target="lib\net9.0\UsunFolderyStarszeNizRok.runtimeconfig.json" />
+    <file src="D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Release\net9.0\UsunFolderyStarszeNizRok.dll" target="lib\net9.0\UsunFolderyStarszeNizRok.dll" />
+    <file src="D:\Projekty C#\UsunFolderyStarszeNizRok\folder-wrench-outline-custom (1).ico" target="content\folder-wrench-outline-custom (1).ico" />
+    <file src="D:\Projekty C#\UsunFolderyStarszeNizRok\folder-wrench-outline-custom (1).ico" target="contentFiles\any\net9.0\folder-wrench-outline-custom (1).ico" />
+  </files>
+</package>

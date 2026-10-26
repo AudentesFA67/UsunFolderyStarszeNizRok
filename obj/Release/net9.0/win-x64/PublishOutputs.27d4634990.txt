@@ -1,0 +1,2 @@
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Release\net9.0\publish\UsunFolderyStarszeNizRok.pdb
+D:\Projekty C#\UsunFolderyStarszeNizRok\bin\Release\net9.0\publish\UsunFolderyStarszeNizRok.exe
