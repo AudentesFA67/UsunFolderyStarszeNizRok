@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsunFolderyStarszeNizRok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc30bcd728c6c5376a328d0541ea761ee4d0ab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsunFolderyStarszeNizRok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsunFolderyStarszeNizRok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

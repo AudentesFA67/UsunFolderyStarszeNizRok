@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projekty C#\\UsunFolderyStarszeNizRok\\",
+  "WorkspaceRootPath": "D:\\C#\\UsunFolderyStarszeNizRok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|d:\\projekty c#\\usunfolderystarszenizrok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|d:\\c#\\usunfolderystarszenizrok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|d:\\projekty c#\\usunfolderystarszenizrok\\usunfolderystarszenizrok.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|solutionrelative:usunfolderystarszenizrok.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|d:\\c#\\usunfolderystarszenizrok\\usunfolderystarszenizrok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B35DEB48-E916-430F-8A5A-DCD22D3C52CC}|UsunFolderyStarszeNizRok.csproj|solutionrelative:usunfolderystarszenizrok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,24 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsunFolderyStarszeNizRok",
-              "DocumentMoniker": "D:\\Projekty C#\\UsunFolderyStarszeNizRok\\UsunFolderyStarszeNizRok.csproj",
+              "Title": "UsunFolderyStarszeNizRok.csproj",
+              "DocumentMoniker": "D:\\C#\\UsunFolderyStarszeNizRok\\UsunFolderyStarszeNizRok.csproj",
               "RelativeDocumentMoniker": "UsunFolderyStarszeNizRok.csproj",
-              "ToolTip": "D:\\Projekty C#\\UsunFolderyStarszeNizRok\\UsunFolderyStarszeNizRok.csproj",
+              "ToolTip": "D:\\C#\\UsunFolderyStarszeNizRok\\UsunFolderyStarszeNizRok.csproj",
               "RelativeToolTip": "UsunFolderyStarszeNizRok.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-13T05:56:54.131Z",
+              "WhenOpened": "2026-11-16T19:17:47.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projekty C#\\UsunFolderyStarszeNizRok\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\UsunFolderyStarszeNizRok\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projekty C#\\UsunFolderyStarszeNizRok\\Program.cs",
+              "ToolTip": "D:\\C#\\UsunFolderyStarszeNizRok\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwEEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T10:57:56.146Z",
               "EditorCaption": ""

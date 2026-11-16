@@ -1,8 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<OutputType>Exe</OutputType>
-		<TargetFramework>net9.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<ApplicationIcon>folder-wrench-outline-custom (1).ico</ApplicationIcon>
@@ -13,6 +14,15 @@
 
 		<InvariantGlobalization>true</InvariantGlobalization>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <COMReference Include="{215d64d2-031c-33c7-96e3-61794cd1ee61}">
+	    <WrapperTool>tlbimp</WrapperTool>
+	    <VersionMinor>4</VersionMinor>
+	    <VersionMajor>2</VersionMajor>
+	    <Guid>215d64d2-031c-33c7-96e3-61794cd1ee61</Guid>
+	  </COMReference>
+	</ItemGroup>
 
 	<ItemGroup>
 		<Content Include="folder-wrench-outline-custom (1).ico" />
